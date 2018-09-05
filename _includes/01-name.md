@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+Carl Bruhn
+# Dette er en 1 header
+og her kommer
+## En 2 Header
